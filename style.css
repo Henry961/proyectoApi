@@ -5,12 +5,11 @@ html {
 }
 
 body {
-  width: 800px;
   margin: 0 auto;
 }
 
 h1, h2 {
-  font-family: 'Sedgwick Ave Display';
+  font-family: 'Rubik Moonrocks';
 }
 
 /* header styles */
@@ -29,26 +28,30 @@ header p {
 /* section styles */
 
 section article {
-  width: 30%;
+  width: 30.5%;
   float: left;
   border-radius: 1cm;
-  height: 8cm;
+  height: 12cm;
   text-align: center;
+  border: crimson 3px solid;
 }
 
 article{
   background-color: aqua;
-  margin: 0.3cm;
+  margin: 0.44cm;
 }
 
 section p {
   margin: 5px 0;
   font-family: 'Tangerine';
+  font-size: 1cm;
 }
 
 section ul {
-  margin-top: 0.5cm;
+  margin-top: 0.4cm;
   text-align: left;
+  font-family: 'Tangerine';
+  font-size: 1cm;
 }
 
 h2 {

@@ -6,12 +6,12 @@
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Capitan America",
+      "age" : "Fallecido",
+      "secretIdentity" : "Steve Rogers",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
+        "fuerza sobrehumana",
+        "Turning inmune a gases y enfermedades",
         "Radiation blast"
       ]
     },
