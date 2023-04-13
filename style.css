@@ -41,7 +41,7 @@ section article {
 article {
   background-image: url("space-4984262_1280.jpg");
   margin: 0.44cm;
-  background-size: contain;
+  background-size: cover;
   color: firebrick;
 }
 
