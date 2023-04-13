@@ -1,8 +1,8 @@
 {
   "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "homeTown" : "New York",
+  "formed" : 2012,
+  "secretBase" : "Torre Stark",
   "active" : true,
   "members" : [
     {
@@ -12,29 +12,32 @@
       "powers" : [
         "fuerza sobrehumana",
         "Inmune a gases y enfermedades",
-        "Radiation curación y regeneración acelerada"
+        "Curación y regeneración acelerada",
+        "Artista marcial",
+        "Gran resistencia"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Iron Man",
+      "age" : "Fallecido",
+      "secretIdentity" : "Tony Stark",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Intelecto nivel genio",
+        "Experto científico e ingeniero",
+        "Vuelo supersónico",
+        "Regenerativo soporte vital"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Hulk",
+      "age" : 56,
+      "secretIdentity" : "Bruce Banner",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Súper fuerza",
+        "Invulnerabilidad",
+        "Regeneración",
+        "Longevidad",
+        "Intelecto nivel genio"
       ]
     }
   ]
